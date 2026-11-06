@@ -104516,9 +104516,559 @@
 }
 },
 "localized/sentences/ds_ui/ds_staff/simpletext.core": {
+"3e968501-5bfd-1c40-aa7b-09c6ffad23d2": {
+"source": "",
+"target": "Programatori principali de sistem",
+"show": "auto"
+},
+"0d160b06-2f26-304e-a68b-073f799cc028": {
+"source": "",
+"target": "ȘI",
+"show": "auto"
+},
+"8a20ec06-5fd7-6e4b-aef3-2950fa6107bd": {
+"source": "",
+"target": "Artist principal VFX",
+"show": "auto"
+},
+"2772a309-0a74-7645-be99-26f3c9292459": {
+"source": "",
+"target": "ARTIST PRINCIPAL DE CINEMATICE",
+"show": "auto"
+},
+"9731260d-7716-4441-b90e-6d8cfecba29c": {
+"source": "",
+"target": "ARTIST UI",
+"show": "auto"
+},
+"79252d10-23f5-8f46-8aed-f173e05928e3": {
+"source": "",
+"target": "ARTIST PRINCIPAL UI",
+"show": "auto"
+},
+"6cc4e013-f32d-b949-bb6d-a243520142b6": {
+"source": "",
+"target": "Design de personaje și mecanisme",
+"show": "auto"
+},
+"710b6214-26e7-3546-a805-e2236fe2712a": {
+"source": "",
+"target": "Compozitor principal",
+"show": "auto"
+},
+"edaf2515-5032-8e4a-b787-672928fe9b15": {
+"source": "",
+"target": "POVESTE ORIGINALĂ  /  GAME DESIGN",
+"show": "auto"
+},
+"9afcc115-6060-784c-9eae-a7d54300f2e3": {
+"source": "",
+"target": "Programator principal de rețea",
+"show": "auto"
+},
+"a202101e-9805-2e4a-be05-024ff4b67c9d": {
+"source": "",
+"target": "DIRECTOR TEHNIC ARTISTIC",
+"show": "auto"
+},
+"ac1a5a20-699c-5e4d-a374-881cefe4a9b3": {
+"source": "",
+"target": "Artist principal de personaje",
+"show": "auto"
+},
+"899c8020-d5b3-4447-87e5-f742e35f3334": {
+"source": "",
+"target": "PROGRAMATORI PRINCIPALI DE SISTEM",
+"show": "auto"
+},
+"7253f522-9667-cb4a-9258-1617d8ac88e3": {
+"source": "",
+"target": "Supervizor tehnic",
+"show": "auto"
+},
+"af173f24-3594-8042-9f06-b71e70c22e67": {
+"source": "",
+"target": "Și",
+"show": "auto"
+},
+"9606e727-642f-8340-a512-34d7395b51b3": {
+"source": "",
+"target": "Producători",
+"show": "auto"
+},
+"83c5b128-609b-f34f-a820-84148fc2bb59": {
+"source": "",
+"target": "APARIȚIE SPECIALĂ",
+"show": "auto"
+},
+"472eb528-fb14-c749-82cd-9cdd63f30ea0": {
+"source": "",
+"target": "Director audio",
+"show": "auto"
+},
+"095f7c29-9505-7744-8a4b-3fc0a32dd706": {
+"source": "",
+"target": "Game designer asociat",
+"show": "auto"
+},
+"d227dc2e-7311-7b40-b191-c2ab761b08ce": {
+"source": "",
+"target": "PROGRAMATOR PRINCIPAL DE SISTEME DE JOC",
+"show": "auto"
+},
+"a47fe135-b9c8-1e44-a57c-1decdb0ab472": {
+"source": "",
+"target": "Artist principal UI",
+"show": "auto"
+},
+"aeb3fe37-ed32-1848-9b89-e5af18b93382": {
+"source": "",
+"target": "ȘI",
+"show": "auto"
+},
+"a4846a38-b043-3d4e-a33c-652d1fc9b45a": {
+"source": "",
+"target": "Artist principal de cinematice",
+"show": "auto"
+},
+"3451033c-d5e3-0c46-8227-d214b7e7f640": {
+"source": "",
+"target": "PROGRAMATOR PRINCIPAL DE UNELTE / ARTIST TEHNIC PRINCIPAL",
+"show": "auto"
+},
+"ac0eff3d-bc68-7f4e-88c9-4c6a838a9f2c": {
+"source": "",
+"target": "PROGRAMATOR PRINCIPAL DE SUNET",
+"show": "auto"
+},
+"07cf5341-d21e-004d-be6e-c1fb8e721312": {
+"source": "",
+"target": "Artist principal de efecte",
+"show": "auto"
+},
+"407d6242-f15b-9946-9320-28ef9c471b04": {
+"source": "",
+"target": "Artist principal de iluminare",
+"show": "auto"
+},
+"1ec2f344-e73b-3547-b745-d49240e03deb": {
+"source": "",
+"target": "Muzica",
+"show": "auto"
+},
+"5cc86d45-670c-c04c-9e71-32e817b3afb8": {
+"source": "",
+"target": "Design de personaje și mecanisme",
+"show": "auto"
+},
+"4e22aa45-2610-e846-a2d5-b890b0e25b41": {
+"source": "",
+"target": "Regia",
+"show": "auto"
+},
+"37b8ca47-2a28-ec40-9678-b23c507ec131": {
+"source": "",
+"target": "Director de casting",
+"show": "auto"
+},
+"49b1b649-e515-2e45-a08f-e73c414848ca": {
+"source": "",
+"target": "ARTIST PRINCIPAL DE ILUMINARE",
+"show": "auto"
+},
+"9c45db4a-2c9a-6444-9bca-0f475909d37f": {
+"source": "",
+"target": "Design titluri",
+"show": "auto"
+},
+"6622d34d-4b16-c04a-b765-960bc058dd68": {
+"source": "",
+"target": "Poveste originală  /  Game design",
+"show": "auto"
+},
+"693c4b4f-75cd-3d4d-b543-c2835f1fe6c0": {
+"source": "",
+"target": "POVESTE ORIGINALĂ / GAME DESIGN",
+"show": "auto"
+},
+"56526052-d601-d343-aa4a-b13269b0f286": {
+"source": "",
+"target": "APARIȚIE SPECIALĂ",
+"show": "auto"
+},
+"b0438d52-6997-a947-89a4-f9fc3aca975d": {
+"source": "",
+"target": "PROGRAMATOR PRINCIPAL UI",
+"show": "auto"
+},
+"4a74c252-8f74-0b49-a169-9fdf8264e14c": {
+"source": "",
+"target": "DESIGN TITLURI",
+"show": "auto"
+},
+"dbaa0f56-e767-a14a-b478-480f05930a43": {
+"source": "",
+"target": "Designeri principali de nivele",
+"show": "auto"
+},
+"040e5157-1dcf-e742-ae89-dee3982d4970": {
+"source": "",
+"target": "Design titluri",
+"show": "auto"
+},
+"870d7657-a2f8-5045-9b9b-b866b9e8fe85": {
+"source": "",
+"target": "Programator principal de animație",
+"show": "auto"
+},
+"4f3eaf5a-1880-5141-a105-e0039710a3ce": {
+"source": "",
+"target": "Programator principal de grafică",
+"show": "auto"
+},
+"577cdf5b-4a15-ec41-b7d7-daaf1391f177": {
+"source": "",
+"target": "DESIGNER PRINCIPAL DE NIVELE",
+"show": "auto"
+},
+"7214175c-5b40-d840-983e-e36ac771db8c": {
+"source": "",
+"target": "DESIGN DE PERSONAJE ȘI MECANISME",
+"show": "auto"
+},
+"0c963f5f-b89f-ef43-9489-6b1d6db310cd": {
+"source": "",
+"target": "Programator principal de rețea",
+"show": "auto"
+},
+"a7282260-8853-734a-8b4a-a7c1e3cf6dcd": {
+"source": "",
+"target": "Game design",
+"show": "auto"
+},
+"d5e2aa60-98ed-c645-a360-ff2ba87940a4": {
+"source": "",
+"target": "Programatori principali de joc",
+"show": "auto"
+},
+"fb9efc61-8261-ad4d-ba81-ca699d81a84b": {
+"source": "",
+"target": "Apariție specială",
+"show": "auto"
+},
+"19bbd862-f583-1942-be0e-1f52e86868ea": {
+"source": "",
+"target": "Programator principal UI",
+"show": "auto"
+},
+"c096aa64-8ee8-7d44-9250-e7d6f3bbf1bc": {
+"source": "",
+"target": "Scripter principal",
+"show": "auto"
+},
+"f7d7356f-640b-7845-8b45-c366a44be9f6": {
+"source": "",
+"target": "Programator principal de animație/fizică",
+"show": "auto"
+},
+"72ebc670-8879-8449-acd7-aca7a5b9fe6a": {
+"source": "",
+"target": "SCRIPTER PRINCIPAL",
+"show": "auto"
+},
+"97f3ef77-399d-7c4c-b15b-95a368b61b73": {
+"source": "",
+"target": "UN JOC DE HIDEO KOJIMA",
+"show": "auto"
+},
+"2ff43478-212f-714d-9f3d-9c59281bbe9d": {
+"source": "",
+"target": "GAME DESIGNER ASOCIAT",
+"show": "auto"
+},
+"fed56178-4ea1-d24f-98ba-56ab4dcafaa2": {
+"source": "",
+"target": "Producția și regia",
+"show": "auto"
+},
+"29d0ac7c-a1e2-af47-acbb-b6604a5c4494": {
+"source": "",
+"target": "Scenariul",
+"show": "auto"
+},
+"5d0e477f-0672-334e-bd25-90b492158065": {
+"source": "",
+"target": "PROGRAMATORI PRINCIPALI DE JOC",
+"show": "auto"
+},
+"22fa8282-5010-0e43-a1d3-917a3de3afdd": {
+"source": "",
+"target": "VETERAN DE RĂZBOI",
+"show": "auto"
+},
+"c786f783-5546-a14d-8c39-6328986aae4b": {
+"source": "",
+"target": "Director tehnic",
+"show": "auto"
+},
+"be807e84-5860-0442-8326-9ddbbfc9cbd7": {
+"source": "",
+"target": "Designer tehnic de sunet",
+"show": "auto"
+},
+"a9af1e85-c2d2-5c46-97a0-cbbce294d563": {
+"source": "",
+"target": "Artist principal UI",
+"show": "auto"
+},
+"a04d7686-121d-2447-9379-34b5aba9b7f3": {
+"source": "",
+"target": "Programator principal de grafică",
+"show": "auto"
+},
+"24ee1088-de1a-944c-a094-4c54cdfe5496": {
+"source": "",
+"target": "Game designer principal",
+"show": "auto"
+},
 "e177ae89-a186-4446-9ec8-8a97a82ee511": {
 "source": "",
 "target": "„Don't Be So Serious”",
+"show": "auto"
+},
+"f00ffe89-9e82-9449-8513-8f33179aa833": {
+"source": "",
+"target": "Animator principal",
+"show": "auto"
+},
+"7d8f6c8a-4359-8949-8792-8d5acd4584c6": {
+"source": "",
+"target": "PROGRAMATOR PRINCIPAL VFX",
+"show": "auto"
+},
+"cd29728c-255f-7747-9145-ff3f9f960f21": {
+"source": "",
+"target": "Designer principal de nivele",
+"show": "auto"
+},
+"0520aa91-da5f-bd43-8626-02b7572812a8": {
+"source": "",
+"target": "Director tehnic artistic",
+"show": "auto"
+},
+"cfcc6b92-889a-9643-9298-4cd13bf30ddc": {
+"source": "",
+"target": "Programator principal de sunet",
+"show": "auto"
+},
+"32797b92-eb3e-d44f-a302-66daa7ca7f40": {
+"source": "",
+"target": "REGIZOR",
+"show": "auto"
+},
+"73da4796-7140-7541-b4a8-dde6b0eec516": {
+"source": "",
+"target": "Planificatori principali",
+"show": "auto"
+},
+"75ce6f98-071a-6243-8a77-79d031906b63": {
+"source": "",
+"target": "ARTIST PRINCIPAL DE PERSONAJE",
+"show": "auto"
+},
+"87998398-7649-5344-aaf2-e8ba8deab8bc": {
+"source": "",
+"target": "ARTIST PRINCIPAL VFX",
+"show": "auto"
+},
+"1a52fb98-260c-3544-a930-55fef77f8815": {
+"source": "",
+"target": "DIRECTOR TEHNIC",
+"show": "auto"
+},
+"8aea8e9c-9051-684a-a69f-20949f6e5abc": {
+"source": "",
+"target": "PRODUCĂTOR",
+"show": "auto"
+},
+"24418e9d-7055-3149-bd11-539038ba6d0b": {
+"source": "",
+"target": "Artist principal de arme/mecanisme",
+"show": "auto"
+},
+"0f628ca1-6b3a-2b4a-b105-43b2b02fe619": {
+"source": "",
+"target": "GAME DESIGNER PRINCIPAL",
+"show": "auto"
+},
+"5f1038a8-eeb8-f54f-bfbe-85ae2d48966c": {
+"source": "",
+"target": "ANIMATOR PRINCIPAL",
+"show": "auto"
+},
+"efb8adb3-6862-904c-b940-011e75935ebc": {
+"source": "",
+"target": "Sam e absorbit în supercelulă.",
+"show": "auto"
+},
+"5fcf6bb4-fd79-724c-95ad-14efa16186a1": {
+"source": "",
+"target": "Programator principal de unelte / Artist tehnic principal",
+"show": "auto"
+},
+"b559bbb7-2831-0040-97e8-da6b900a5ebf": {
+"source": "",
+"target": "Scripter principal",
+"show": "auto"
+},
+"c9c134c1-865c-264f-b168-45720c33755e": {
+"source": "",
+"target": "Programator principal de efecte",
+"show": "auto"
+},
+"9e19ddc1-3b08-4441-b64e-4ff0a0db08cb": {
+"source": "",
+"target": "Animator principal",
+"show": "auto"
+},
+"4698fbc1-b173-7647-913c-07de0029c26c": {
+"source": "",
+"target": "PROGRAMATOR PRINCIPAL DE GRAFICĂ",
+"show": "auto"
+},
+"6b0442c4-3b92-f346-a113-3229b0752dd5": {
+"source": "",
+"target": "Director tehnic artistic",
+"show": "auto"
+},
+"0279f2c6-1f9b-8e40-a174-b0da8b083cbe": {
+"source": "",
+"target": "Programatori principali de sistem",
+"show": "auto"
+},
+"c1a4c7c7-6486-aa42-87a0-c8de13e84779": {
+"source": "",
+"target": "Programator principal de sisteme de joc",
+"show": "auto"
+},
+"f04728c8-c55d-3c47-8d5d-d04530b03d8d": {
+"source": "",
+"target": "Director tehnic",
+"show": "auto"
+},
+"c6864fc9-82c3-4349-9e35-e9d3159f3dbd": {
+"source": "",
+"target": "Artist principal de iluminare",
+"show": "auto"
+},
+"038cb7ca-735e-1d4f-b149-9b694d01f9ea": {
+"source": "",
+"target": "Artist principal de cinematice",
+"show": "auto"
+},
+"5fc54ed0-a1a9-8444-b205-fc5b3fc37232": {
+"source": "",
+"target": "ECHILIBRARE JOC",
+"show": "auto"
+},
+"2d5c74d4-5ab8-be45-a4a8-b62e547db159": {
+"source": "",
+"target": "Producție muzicală",
+"show": "auto"
+},
+"7e9e7dd4-46db-0c46-9d71-8ce15dcd21f8": {
+"source": "",
+"target": "Programator principal de unelte",
+"show": "auto"
+},
+"491558d8-5036-0649-affe-ec14de7e542a": {
+"source": "",
+"target": "Poveste/Planificare/Game design",
+"show": "auto"
+},
+"63d393d9-5d1d-0246-a136-fcdb16aef46f": {
+"source": "",
+"target": "Artist principal de mecanisme",
+"show": "auto"
+},
+"cd58b2e0-9721-c14d-8b86-3673a01dfba2": {
+"source": "",
+"target": "PROGRAMATOR",
+"show": "auto"
+},
+"0dd7cbe0-b3e0-f446-af8c-303b2e35b4ed": {
+"source": "",
+"target": "Echilibrare joc",
+"show": "auto"
+},
+"1e8be6e2-627d-c341-8757-c4b6cc93773b": {
+"source": "",
+"target": "Artist principal de medii",
+"show": "auto"
+},
+"8c6cabe5-dfa2-784e-b4c9-d10196be4e9d": {
+"source": "",
+"target": "Artist principal de personaje",
+"show": "auto"
+},
+"6dee1ee7-f88b-ab49-91a8-5d20370314da": {
+"source": "",
+"target": "ARTIST PRINCIPAL DE MEDII",
+"show": "auto"
+},
+"e578dceb-eb42-7b40-a804-cfb0e63ae9a1": {
+"source": "",
+"target": "Programator principal VFX",
+"show": "auto"
+},
+"60b0e5ed-28d2-8146-9a3e-f183082da718": {
+"source": "",
+"target": "PLANIFICATOR",
+"show": "auto"
+},
+"da606eee-fc7e-2348-86f5-09a72a11b276": {
+"source": "",
+"target": "Programator principal UI",
+"show": "auto"
+},
+"17b5baf0-3ddb-3b47-945e-e2f0a2ec437e": {
+"source": "",
+"target": "Director artistic",
+"show": "auto"
+},
+"c4a2b1f2-f038-a746-9f53-3daecd1bf8f2": {
+"source": "",
+"target": "Apariție specială",
+"show": "auto"
+},
+"505e04f5-38ec-3d4e-812f-58cd5665fa54": {
+"source": "",
+"target": "Artist principal de medii",
+"show": "auto"
+},
+"78ff70f5-2915-7544-93ac-17ca484c15d7": {
+"source": "",
+"target": "ARTIST PRINCIPAL DE MECANISME",
+"show": "auto"
+},
+"5650a3f7-0428-2f49-94d8-94af1b6a137f": {
+"source": "",
+"target": "PROGRAMATOR PRINCIPAL DE REȚEA",
+"show": "auto"
+},
+"29f82bfa-3851-2b4d-b9ce-c581539385c7": {
+"source": "",
+"target": "PROGRAMATOR PRINCIPAL DE ANIMAȚIE/FIZICĂ",
+"show": "auto"
+},
+"5d2832fd-f5c6-474b-adda-e7a8a9a15144": {
+"source": "",
+"target": "APARIȚIE SPECIALĂ",
+"show": "auto"
+},
+"ed17e3fe-b5aa-4f40-be6a-6d99d4996d97": {
+"source": "",
+"target": "Programatori principali de joc",
 "show": "auto"
 }
 },

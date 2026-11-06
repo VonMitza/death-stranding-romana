@@ -23,6 +23,7 @@ jobs:
         run: |
           flag=""
           if [ "${{ inputs.draft }}" = "true" ]; then flag="--draft"; fi
+          gh release delete "${{ inputs.tag }}" -y || true
           gh release create "${{ inputs.tag }}" dist/DS_Romana.zip --target "${{ github.sha }}" $flag \
             --title "Death Stranding Director's Cut — Traducere în limba română ${{ inputs.tag }}" \
             --notes "Dezarhivează, închide jocul și pornește Instaleaza.bat. Detalii în README și în CITESTE-MA.txt. Pentru versiunea Steam 1.004."
