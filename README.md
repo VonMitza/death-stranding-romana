@@ -1,6 +1,6 @@
 # Death Stranding Director's Cut în limba română
 
-Traducere neoficială și gratuită pentru **Death Stranding Director's Cut** (Steam, versiunea 1.004), cu diacritice corecte și limbaj modern. Limbajul vulgar e păstrat ca în original.
+Traducere neoficială și gratuită pentru **Death Stranding Director's Cut** (Steam, versiunea 1.004), cu diacritice corecte și limbaj modern.
 
 Autor: **VonMitza**
 
@@ -25,14 +25,6 @@ Pornește `Dezinstaleaza.bat`. Jocul revine la original din backup-ul făcut la 
 - Dialogurile, subtitrările, mailurile, interviurile, meniurile, comenzile și sfaturile (peste 21.000 de texte).
 - Titlurile de episod, citatul de la început și panourile holografice principale din joc.
 - Genericul: funcțiile din credite și cartonașele de la început.
-
-## Ce rămâne în engleză
-
-- Numele din generic, titlurile și versurile melodiilor.
-- Textul integrat în filmele jocului (de exemplu „Developed by”).
-- Logourile (UCA, Bridges), semnele orașelor Knot și inscripțiile mici de pe obiecte.
-- Câteva texte din HUD, inclusiv busola.
-- Vocile: traducerea e doar pentru text.
 
 ## După o actualizare a jocului
 
