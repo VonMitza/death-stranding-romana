@@ -1,0 +1,28 @@
+name: Release
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Versiune (de exemplu v1.0)'
+        required: true
+        default: 'v1.0'
+      draft:
+        description: 'Doar ciornă'
+        type: boolean
+        default: true
+permissions:
+  contents: write
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          flag=""
+          if [ "${{ inputs.draft }}" = "true" ]; then flag="--draft"; fi
+          gh release create "${{ inputs.tag }}" dist/DS_Romana.zip --target "${{ github.sha }}" $flag \
+            --title "Death Stranding Director's Cut — Traducere în limba română ${{ inputs.tag }}" \
+            --notes "Dezarhivează, închide jocul și pornește Instaleaza.bat. Detalii în README și în CITESTE-MA.txt. Pentru versiunea Steam 1.004."
